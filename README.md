@@ -1,4 +1,3 @@
-
 # 9 Tips to Get or Keep Your GitHub Ready for Job-Seeking (and Two More to Make it Unstoppable)
 
 Github isn't just a repository for code, it's become one of the most important "calling
@@ -87,3 +86,4 @@ Your GitHub profile isn’t just a portfolio of your code — it’s another par
 
 - In a great code base, you’ll see a line about each code before writing the method, giving a  description of what it does.
 On your next big project start adding in comments - this will prepare you for working on a common code base at your future  developer gig, and demonstrate to employers that you’re ready to collaborate effectively.
+<p data-visibility='hidden'>PHRG 9 Tips to Get or Keep Your GitHub Ready for Job-Seeking (and Two More to Make it Unstoppable)</p>
